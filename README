@@ -1,0 +1,7 @@
+
+add-apt-repository ppa:jamey-hicks/connectal
+apt-get update
+apt-get install connectal
+
+./ubuntu.exe -p udp-small.pcap
+
